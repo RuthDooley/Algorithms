@@ -5,7 +5,16 @@ public class RussianPeasantsAlgo {
         int x = a[0];
         int y = a[1];
 
-        return x*y;
+        int result = 0;
+
+        while (y < 0){
+            if (y % 2 != 0){
+                result += x;
+            }
+            x *= 2;
+            y /= 2;
+        }
+        return result;
     }
 
 
