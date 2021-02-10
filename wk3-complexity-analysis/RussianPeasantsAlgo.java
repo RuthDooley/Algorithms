@@ -7,8 +7,8 @@ public class RussianPeasantsAlgo {
 
         int result = 0;
 
-        while (y < 0){
-            if (y % 2 != 0){
+        while (y > 0){
+            if (y % 2 != 0) {
                 result += x;
             }
             x *= 2;
@@ -17,22 +17,15 @@ public class RussianPeasantsAlgo {
         return result;
     }
 
-
-    /**
-     * Reads in a sequence of integers from a file, specified as a command-line argument;
-     * counts the number of triples sum to exactly zero; prints out the time to perform
-     * the computation.
-     *
-     * @param args the command-line arguments
-     */
     public static void main(String[] args)  {
         In in = new In(args[0]);
         int[] a = in.readAllInts();
 
-        //Helper file to measure time count function takes to run
-        Stopwatch timer = new Stopwatch();
+        long start = System.nanoTime();
         int result = result(a);
-        StdOut.println("elapsed time = " + timer.elapsedTime());
-        StdOut.println(result);
+        long finish = System.nanoTime();
+        long timeElapsed = finish - start;
+        StdOut.println("elapsed time in nano seconds = " + timeElapsed);
+        StdOut.println("Result is -> " + result);
     }
 }
