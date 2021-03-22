@@ -1,7 +1,10 @@
 public class main {
+    public static int PATTERN_LENGTH = 5;
+    public static int TEXT_LENGTH = 10;
     public static void main(String[] args) {
-        String txt1 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        String pat1 = "LMNOP";
+        String txt1 = RandomTextGen.text(TEXT_LENGTH);
+        String pat1 = RandomTextGen.pattern(TEXT_LENGTH, PATTERN_LENGTH, txt1);
+        System.out.println("Text is " + txt1 + " and pattern is " + pat1 + "\n");
 
         //Brute Force Timing
         long startA = System.nanoTime();
