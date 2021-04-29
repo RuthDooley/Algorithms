@@ -4,7 +4,7 @@ The contents of this github file is that of the COMP20290 Algorithmsd module prc
 
 Practical Number | Practical Source | Description | Write Up
 ---------------- | ---------------- | ----------- | --------
-1 | Algorithm Analysis| | Algorithm Analysis Write Up
+1 | [Algorithm Analysis] (https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk2-algorithm-analysis)| | Algorithm Analysis Write Up
 2 | Complexity Analysis | | Complexity Analysis Write Up
 3 | Recursion | | Recursion Write Up
 4 | Sorting | | Sorting Write Up
