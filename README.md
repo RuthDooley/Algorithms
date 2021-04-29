@@ -4,14 +4,14 @@ The contents of this github file is that of the COMP20290 Algorithmsd module prc
 
 Practical Number | Practical Source | Description | Write Up
 ---------------- | ---------------- | ----------- | --------
-1 | [Algorithm Analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk2-algorithm-analysis)| | [Algorithm Analysis Write Up]()
-2 | [Complexity Analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk3-complexity-analysis) | | [Complexity Analysis Write Up]()
-3 | [Recursion](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk4-recursion/src) | | [Recursion Write Up]()
+1 | [Algorithm Analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk2-algorithm-analysis)| | [Algorithm Analysis Write Up](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/blob/main/wk2-algorithm-analysis/Algorithms%20-%20Practical%201%20Answers.pdf)
+2 | [Complexity Analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk3-complexity-analysis) | | [Complexity Analysis Write Up](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/blob/main/wk3-complexity-analysis/Algorithms%20-%20Practical%202%20Answers%20.pdf)
+3 | [Recursion](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk4-recursion/src) | | [Recursion Write Up](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/blob/main/wk4-recursion/Algorithms%20Practical%203%20-%20Ruth%20Dooley%2019300753%20Answers.pdf)
 4 | [Sorting](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk5-sorting/src) | | [Sorting Write Up]()
-5 | [Advanced Sorting](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk6-advanced-sorting/src) | | [Advanced Sorting Write Up]()
-6 | [QuickSort](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk7-quicksort/src) | | [QuickSort Write Up]()
-7 | [Substring Search](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk8-substring-search/src) | | [Substring Search Write Up]()
-8 | [Trie](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk9-trie/src) | | [Trie Write Up]()
-9 | [Run Length](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk10-run-length/src) | | Run Length Write Up
-A1 | [Huffman Tree Compression]() | |  Write Up
+5 | [Advanced Sorting](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk6-advanced-sorting/src) | | NA
+6 | [QuickSort](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk7-quicksort/src) | | NA
+7 | [Substring Search](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk8-substring-search/src) | | NA
+8 | [Trie](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk9-trie/src) | | NA
+9 | [Run Length](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk10-run-length/src) | | NA
+A1 | [Huffman Tree Compression]() | |  NA
 
