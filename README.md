@@ -1,7 +1,7 @@
-# Ruth Dooley 19300753 (comp20290-algorithms-2021)
+# Introduction
+The contents of this github file is that of the 2nd Year "Algorithms" (COMP20290) module practical development and assignments. The individual breakdown and description of the assignments can be found below. 
 
-The contents of this github file is that of the COMP20290 Algorithmsd module prctical and assignments. The individual breakdown and description of the assignments can be found below 
-
+# Development
 Practical Number | Practical Source | Description | Write Up
 ---------------- | ---------------- | ----------- | --------
 1 | [Algorithm Analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/tree/main/wk2-algorithm-analysis)| ThreeSumA and ThreeSumB are both methods that find if a trio of numbers in a given array sums to a given integer. The performance of each algorithm was calculated and is compared in the write up. | [Algorithm Analysis Write Up](https://github.com/CompAlgorithms/algorithms20290-2021-repository-RuthDooley/blob/main/wk2-algorithm-analysis/Algorithms%20-%20Practical%201%20Answers.pdf)
